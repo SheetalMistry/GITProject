@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Print batch headers on TxQ Demo website using data driven approch .</description>
+   <name>TC001_A)PrintBatchHeader(Variable)</name>
+   <tag>Test002</tag>
+   <comment></comment>
+   <testCaseGuid>f0755b6d-2e75-46f2-9002-d931316d131b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f19189ea-37b7-4eef-a853-37ee0275f026</id>
+      <masked>false</masked>
+      <name>categry</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1214ea7d-1d8c-4a34-9a60-b4d548cef668</id>
+      <masked>false</masked>
+      <name>subcategory</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7ba113f3-173f-4750-9fd3-8d7d1744aeb4</id>
+      <masked>false</masked>
+      <name>record</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5bd6c036-58b9-4b9c-9a8c-bc7012a258a9</id>
+      <masked>false</masked>
+      <name>rescan</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6e007424-c2c0-4233-892b-e00658ec842e</id>
+      <masked>false</masked>
+      <name>cheque</name>
+   </variable>
+</TestCaseEntity>

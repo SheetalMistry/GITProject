@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TC002_Suite_B)Indexing(Variable)</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-08-23T15:19:48</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>a4d15f8c-9e42-47ec-9239-84159da10be9</testSuiteGuid>
+   <testCaseLink>
+      <guid>8273d1ec-1be5-42d0-911a-967afba673dd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/3.)TxQ Session reset/DeleteActiveSession</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>60d9ac94-a794-43e5-af7b-9eb6063a7228</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/3.)TxQ Session reset/OpenTxQ</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1f25b4e8-e733-4b8d-89f5-736df002c87c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b3061d49-3a9d-441c-a029-40ab31972226</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Project - TxQDemoTests/TC002_Indexing/TC002_A)Indexing(Variable)</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8935a372-c9c8-4f9e-925f-48432f82001d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TC002_Data_Indexing(Variable)/TC002_Data_Indexing(Variable)</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>8935a372-c9c8-4f9e-925f-48432f82001d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Category</value>
+         <variableId>0de72b3f-767c-4706-91fe-6a5f0d72598b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8935a372-c9c8-4f9e-925f-48432f82001d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Sub-Category</value>
+         <variableId>7c65bbf6-fc9f-4c96-b937-d0680982abc1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8935a372-c9c8-4f9e-925f-48432f82001d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PostCode</value>
+         <variableId>608f9c32-53e1-476e-9249-67ed9467691f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8935a372-c9c8-4f9e-925f-48432f82001d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Acc</value>
+         <variableId>c48019e5-84f3-4b78-a19b-456922646b4a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8935a372-c9c8-4f9e-925f-48432f82001d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>sort</value>
+         <variableId>f804c532-c78a-40e2-a605-4bad4e79c131</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8935a372-c9c8-4f9e-925f-48432f82001d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CIS</value>
+         <variableId>f62877f0-bc93-45a6-b3b0-30add883312b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8935a372-c9c8-4f9e-925f-48432f82001d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Destination</value>
+         <variableId>bb2b6d23-0b94-42f8-af9c-4467dd5d1f86</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6f8f60cb-1233-4f4a-bea9-e25e2420b92a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/3.)TxQ Session reset/CloseTxQ</testCaseId>
+   </testCaseLink>
+</TestSuiteEntity>

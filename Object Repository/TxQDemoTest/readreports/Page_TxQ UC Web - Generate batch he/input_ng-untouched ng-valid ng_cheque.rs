@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_ng-untouched ng-valid ng_cheque</name>
+   <tag></tag>
+   <elementGuidId>3c603cf8-82b8-447c-8f39-2885cd724237</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html[@class=&quot;ng-scope&quot;]/body[1]/div[@class=&quot;container-fluid body-content slide-container&quot;]/div[@class=&quot;slide-animation ng-scope&quot;]/div[@class=&quot;batch-headers-view ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-offset-4 col-xs-4&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body list-body&quot;]/div[@class=&quot;index row ng-scope&quot;]/div[@class=&quot;col-xs-6&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;text-center ng-scope&quot;]/input[@class=&quot;ng-untouched ng-valid ng-dirty ng-valid-parse&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>idx.BooleanValue</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>main.indexValueChanged(idx)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-valid ng-dirty ng-valid-parse</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[1]/div[@class=&quot;container-fluid body-content slide-container&quot;]/div[@class=&quot;slide-animation ng-scope&quot;]/div[@class=&quot;batch-headers-view ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-offset-4 col-xs-4&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body list-body&quot;]/div[@class=&quot;index row ng-scope&quot;]/div[@class=&quot;col-xs-6&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;text-center ng-scope&quot;]/input[@class=&quot;ng-untouched ng-valid ng-dirty ng-valid-parse&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

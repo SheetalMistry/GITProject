@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TC001_Suite_A)PrintBatchHeader(Variable)" time="120" tests="8" failures="0" errors="0">
+   <testsuite name="TC001_Suite_A)PrintBatchHeader(Variable)" tests="8" failures="0" errors="0" time="120" timestamp="2018-09-17 14:11:45" hostname="rr279339 - GB-LEI-L6056.eu.ad.rrd.com" id="Test Suites/TC001_Suite_A)PrintBatchHeader(Variable)">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143"/>
+         <property name="logFiles" value="C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189918230.png, C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189918699.png, C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189933104.png, C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189933524.png, C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189948052.png, C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189948474.png, C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189962916.png, C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189963323.png, C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189977742.png, C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189978153.png, C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189992404.png, C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189992838.png, C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537190007545.png, C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537190007948.png, C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537190022134.png, C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537190022541.png"/>
+         <property name="hostName" value="rr279339 - GB-LEI-L6056.eu.ad.rrd.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.7.1.1"/>
+         <property name="browser" value="Chrome 68.0.3440.106"/>
+         <property name="hostAddress" value="10.170.76.195"/>
+         <property name="sessionId" value="a333f0c12c569f612881a8a9cd08e244"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)" classname="Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)" status="PASSED">
+         <system-out><![CDATA[2018-09-17 14:11:46 - [TEST_CASE][PASSED] - Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable): Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)
+
+2018-09-17 14:11:47 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://uat.txqweb.rrd.com/TxQucWeb_LeiSS_Test/'
+
+2018-09-17 14:11:51 - [MESSAGE][PASSED] - Browser is opened with url: 'https://uat.txqweb.rrd.com/TxQucWeb_LeiSS_Test/'
+
+2018-09-17 14:11:51 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-09-17 14:11:52 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-17 14:11:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_TxQ Demo' is clicked on
+
+2018-09-17 14:11:52 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_TxQ Demo' is clicked on
+
+2018-09-17 14:11:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_File' is clicked on
+
+2018-09-17 14:11:52 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_File' is clicked on
+
+2018-09-17 14:11:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_Generate batch headers' is clicked on
+
+2018-09-17 14:11:52 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_Generate batch headers' is clicked on
+
+2018-09-17 14:11:52 - [TEST_STEP][PASSED] - comment: Select a category
+
+2018-09-17 14:11:52 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'Personal Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine'  using regular expression
+
+2018-09-17 14:11:53 - [MESSAGE][PASSED] - All options with label 'Personal Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine'  using regular expression
+
+2018-09-17 14:11:53 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:11:54 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:11:54 - [TEST_STEP][PASSED] - comment: Select a sub category
+
+2018-09-17 14:11:54 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'ISA Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine_1'  using regular expression
+
+2018-09-17 14:11:54 - [MESSAGE][PASSED] - All options with label 'ISA Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine_1'  using regular expression
+
+2018-09-17 14:11:54 - [TEST_STEP][PASSED] - sendKeys: Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_record'
+
+2018-09-17 14:11:55 - [MESSAGE][PASSED] - Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_record'
+
+2018-09-17 14:11:55 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:11:56 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:11:56 - [TEST_STEP][PASSED] - sendKeys: Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_rescan'
+
+2018-09-17 14:11:56 - [MESSAGE][PASSED] - Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_rescan'
+
+2018-09-17 14:11:56 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:11:57 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:11:57 - [TEST_STEP][PASSED] - sendKeys: Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_cheque'
+
+2018-09-17 14:11:57 - [MESSAGE][PASSED] - Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_cheque'
+
+2018-09-17 14:11:57 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:11:58 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:11:58 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-09-17 14:11:58 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189918230.png]]
+
+2018-09-17 14:11:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/button_Generate' is clicked on
+
+2018-09-17 14:11:58 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/button_Generate' is clicked on
+
+2018-09-17 14:11:58 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-09-17 14:11:59 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189918699.png]]
+
+2018-09-17 14:11:59 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-09-17 14:12:02 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-17 14:12:02 - [TEST_STEP][NOT_RUN] - Statement - dd(): NOT_RUN: Statement - dd()
+
+2018-09-17 14:12:02 - [MESSAGE][NOT_RUN] - NOT_RUN: Statement - dd()]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)" classname="Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)" status="PASSED">
+         <system-out><![CDATA[2018-09-17 14:12:02 - [TEST_CASE][PASSED] - Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable): Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)
+
+2018-09-17 14:12:02 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://uat.txqweb.rrd.com/TxQucWeb_LeiSS_Test/'
+
+2018-09-17 14:12:02 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-09-17 14:12:06 - [MESSAGE][PASSED] - Browser is opened with url: 'https://uat.txqweb.rrd.com/TxQucWeb_LeiSS_Test/'
+
+2018-09-17 14:12:06 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-09-17 14:12:07 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-17 14:12:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_TxQ Demo' is clicked on
+
+2018-09-17 14:12:07 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_TxQ Demo' is clicked on
+
+2018-09-17 14:12:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_File' is clicked on
+
+2018-09-17 14:12:07 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_File' is clicked on
+
+2018-09-17 14:12:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_Generate batch headers' is clicked on
+
+2018-09-17 14:12:07 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_Generate batch headers' is clicked on
+
+2018-09-17 14:12:07 - [TEST_STEP][PASSED] - comment: Select a category
+
+2018-09-17 14:12:07 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'Personal Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine'  using regular expression
+
+2018-09-17 14:12:08 - [MESSAGE][PASSED] - All options with label 'Personal Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine'  using regular expression
+
+2018-09-17 14:12:08 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:12:09 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:12:09 - [TEST_STEP][PASSED] - comment: Select a sub category
+
+2018-09-17 14:12:09 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'Current Account Plus' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine_1'  using regular expression
+
+2018-09-17 14:12:09 - [MESSAGE][PASSED] - All options with label 'Current Account Plus' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine_1'  using regular expression
+
+2018-09-17 14:12:09 - [TEST_STEP][PASSED] - sendKeys: Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_record'
+
+2018-09-17 14:12:09 - [MESSAGE][PASSED] - Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_record'
+
+2018-09-17 14:12:09 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:12:10 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:12:10 - [TEST_STEP][PASSED] - sendKeys: Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_rescan'
+
+2018-09-17 14:12:10 - [MESSAGE][PASSED] - Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_rescan'
+
+2018-09-17 14:12:11 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:12:12 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:12:12 - [TEST_STEP][PASSED] - sendKeys: Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_cheque'
+
+2018-09-17 14:12:12 - [MESSAGE][PASSED] - Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_cheque'
+
+2018-09-17 14:12:12 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:12:13 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:12:13 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-09-17 14:12:13 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189933104.png]]
+
+2018-09-17 14:12:13 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/button_Generate' is clicked on
+
+2018-09-17 14:12:13 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/button_Generate' is clicked on
+
+2018-09-17 14:12:13 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-09-17 14:12:13 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189933524.png]]
+
+2018-09-17 14:12:13 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-09-17 14:12:16 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-17 14:12:16 - [TEST_STEP][NOT_RUN] - Statement - dd(): NOT_RUN: Statement - dd()
+
+2018-09-17 14:12:16 - [MESSAGE][NOT_RUN] - NOT_RUN: Statement - dd()]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)" classname="Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)" status="PASSED">
+         <system-out><![CDATA[2018-09-17 14:12:16 - [TEST_CASE][PASSED] - Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable): Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)
+
+2018-09-17 14:12:16 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://uat.txqweb.rrd.com/TxQucWeb_LeiSS_Test/'
+
+2018-09-17 14:12:16 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-09-17 14:12:21 - [MESSAGE][PASSED] - Browser is opened with url: 'https://uat.txqweb.rrd.com/TxQucWeb_LeiSS_Test/'
+
+2018-09-17 14:12:21 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-09-17 14:12:22 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-17 14:12:22 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_TxQ Demo' is clicked on
+
+2018-09-17 14:12:22 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_TxQ Demo' is clicked on
+
+2018-09-17 14:12:22 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_File' is clicked on
+
+2018-09-17 14:12:22 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_File' is clicked on
+
+2018-09-17 14:12:22 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_Generate batch headers' is clicked on
+
+2018-09-17 14:12:22 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_Generate batch headers' is clicked on
+
+2018-09-17 14:12:22 - [TEST_STEP][PASSED] - comment: Select a category
+
+2018-09-17 14:12:22 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'Personal Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine'  using regular expression
+
+2018-09-17 14:12:23 - [MESSAGE][PASSED] - All options with label 'Personal Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine'  using regular expression
+
+2018-09-17 14:12:23 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:12:24 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:12:24 - [TEST_STEP][PASSED] - comment: Select a sub category
+
+2018-09-17 14:12:24 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'Saving Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine_1'  using regular expression
+
+2018-09-17 14:12:24 - [MESSAGE][PASSED] - All options with label 'Saving Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine_1'  using regular expression
+
+2018-09-17 14:12:24 - [TEST_STEP][PASSED] - sendKeys: Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_record'
+
+2018-09-17 14:12:24 - [MESSAGE][PASSED] - Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_record'
+
+2018-09-17 14:12:24 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:12:25 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:12:25 - [TEST_STEP][PASSED] - sendKeys: Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_rescan'
+
+2018-09-17 14:12:25 - [MESSAGE][PASSED] - Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_rescan'
+
+2018-09-17 14:12:25 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:12:26 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:12:26 - [TEST_STEP][PASSED] - sendKeys: Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_cheque'
+
+2018-09-17 14:12:27 - [MESSAGE][PASSED] - Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_cheque'
+
+2018-09-17 14:12:27 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:12:28 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:12:28 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-09-17 14:12:28 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189948052.png]]
+
+2018-09-17 14:12:28 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/button_Generate' is clicked on
+
+2018-09-17 14:12:28 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/button_Generate' is clicked on
+
+2018-09-17 14:12:28 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-09-17 14:12:28 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189948474.png]]
+
+2018-09-17 14:12:28 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-09-17 14:12:31 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-17 14:12:31 - [TEST_STEP][NOT_RUN] - Statement - dd(): NOT_RUN: Statement - dd()
+
+2018-09-17 14:12:31 - [MESSAGE][NOT_RUN] - NOT_RUN: Statement - dd()]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)" classname="Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)" status="PASSED">
+         <system-out><![CDATA[2018-09-17 14:12:31 - [TEST_CASE][PASSED] - Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable): Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)
+
+2018-09-17 14:12:31 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://uat.txqweb.rrd.com/TxQucWeb_LeiSS_Test/'
+
+2018-09-17 14:12:31 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-09-17 14:12:35 - [MESSAGE][PASSED] - Browser is opened with url: 'https://uat.txqweb.rrd.com/TxQucWeb_LeiSS_Test/'
+
+2018-09-17 14:12:35 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-09-17 14:12:37 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-17 14:12:37 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_TxQ Demo' is clicked on
+
+2018-09-17 14:12:37 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_TxQ Demo' is clicked on
+
+2018-09-17 14:12:37 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_File' is clicked on
+
+2018-09-17 14:12:37 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_File' is clicked on
+
+2018-09-17 14:12:37 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_Generate batch headers' is clicked on
+
+2018-09-17 14:12:37 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_Generate batch headers' is clicked on
+
+2018-09-17 14:12:37 - [TEST_STEP][PASSED] - comment: Select a category
+
+2018-09-17 14:12:37 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'Personal Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine'  using regular expression
+
+2018-09-17 14:12:38 - [MESSAGE][PASSED] - All options with label 'Personal Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine'  using regular expression
+
+2018-09-17 14:12:38 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:12:39 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:12:39 - [TEST_STEP][PASSED] - comment: Select a sub category
+
+2018-09-17 14:12:39 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'Child Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine_1'  using regular expression
+
+2018-09-17 14:12:39 - [MESSAGE][PASSED] - All options with label 'Child Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine_1'  using regular expression
+
+2018-09-17 14:12:39 - [TEST_STEP][PASSED] - sendKeys: Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_record'
+
+2018-09-17 14:12:39 - [MESSAGE][PASSED] - Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_record'
+
+2018-09-17 14:12:39 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:12:40 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:12:40 - [TEST_STEP][PASSED] - sendKeys: Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_rescan'
+
+2018-09-17 14:12:40 - [MESSAGE][PASSED] - Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_rescan'
+
+2018-09-17 14:12:40 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:12:41 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:12:41 - [TEST_STEP][PASSED] - sendKeys: Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_cheque'
+
+2018-09-17 14:12:41 - [MESSAGE][PASSED] - Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_cheque'
+
+2018-09-17 14:12:41 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:12:42 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:12:42 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-09-17 14:12:43 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189962916.png]]
+
+2018-09-17 14:12:43 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/button_Generate' is clicked on
+
+2018-09-17 14:12:43 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/button_Generate' is clicked on
+
+2018-09-17 14:12:43 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-09-17 14:12:43 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189963323.png]]
+
+2018-09-17 14:12:43 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-09-17 14:12:46 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-17 14:12:46 - [TEST_STEP][NOT_RUN] - Statement - dd(): NOT_RUN: Statement - dd()
+
+2018-09-17 14:12:46 - [MESSAGE][NOT_RUN] - NOT_RUN: Statement - dd()]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)" classname="Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)" status="PASSED">
+         <system-out><![CDATA[2018-09-17 14:12:46 - [TEST_CASE][PASSED] - Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable): Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)
+
+2018-09-17 14:12:46 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://uat.txqweb.rrd.com/TxQucWeb_LeiSS_Test/'
+
+2018-09-17 14:12:46 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-09-17 14:12:50 - [MESSAGE][PASSED] - Browser is opened with url: 'https://uat.txqweb.rrd.com/TxQucWeb_LeiSS_Test/'
+
+2018-09-17 14:12:50 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-09-17 14:12:51 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-17 14:12:51 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_TxQ Demo' is clicked on
+
+2018-09-17 14:12:51 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_TxQ Demo' is clicked on
+
+2018-09-17 14:12:51 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_File' is clicked on
+
+2018-09-17 14:12:52 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_File' is clicked on
+
+2018-09-17 14:12:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_Generate batch headers' is clicked on
+
+2018-09-17 14:12:52 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_Generate batch headers' is clicked on
+
+2018-09-17 14:12:52 - [TEST_STEP][PASSED] - comment: Select a category
+
+2018-09-17 14:12:52 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'Personal Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine'  using regular expression
+
+2018-09-17 14:12:53 - [MESSAGE][PASSED] - All options with label 'Personal Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine'  using regular expression
+
+2018-09-17 14:12:53 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:12:54 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:12:54 - [TEST_STEP][PASSED] - comment: Select a sub category
+
+2018-09-17 14:12:54 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'Current Premier Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine_1'  using regular expression
+
+2018-09-17 14:12:54 - [MESSAGE][PASSED] - All options with label 'Current Premier Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine_1'  using regular expression
+
+2018-09-17 14:12:54 - [TEST_STEP][PASSED] - sendKeys: Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_record'
+
+2018-09-17 14:12:54 - [MESSAGE][PASSED] - Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_record'
+
+2018-09-17 14:12:54 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:12:55 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:12:55 - [TEST_STEP][PASSED] - sendKeys: Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_rescan'
+
+2018-09-17 14:12:55 - [MESSAGE][PASSED] - Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_rescan'
+
+2018-09-17 14:12:55 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:12:56 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:12:56 - [TEST_STEP][PASSED] - sendKeys: Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_cheque'
+
+2018-09-17 14:12:56 - [MESSAGE][PASSED] - Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_cheque'
+
+2018-09-17 14:12:56 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:12:57 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:12:57 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-09-17 14:12:58 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189977742.png]]
+
+2018-09-17 14:12:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/button_Generate' is clicked on
+
+2018-09-17 14:12:58 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/button_Generate' is clicked on
+
+2018-09-17 14:12:58 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-09-17 14:12:58 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189978153.png]]
+
+2018-09-17 14:12:58 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-09-17 14:13:01 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-17 14:13:01 - [TEST_STEP][NOT_RUN] - Statement - dd(): NOT_RUN: Statement - dd()
+
+2018-09-17 14:13:01 - [MESSAGE][NOT_RUN] - NOT_RUN: Statement - dd()]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)" classname="Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)" status="PASSED">
+         <system-out><![CDATA[2018-09-17 14:13:01 - [TEST_CASE][PASSED] - Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable): Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)
+
+2018-09-17 14:13:01 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://uat.txqweb.rrd.com/TxQucWeb_LeiSS_Test/'
+
+2018-09-17 14:13:01 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-09-17 14:13:05 - [MESSAGE][PASSED] - Browser is opened with url: 'https://uat.txqweb.rrd.com/TxQucWeb_LeiSS_Test/'
+
+2018-09-17 14:13:05 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-09-17 14:13:06 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-17 14:13:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_TxQ Demo' is clicked on
+
+2018-09-17 14:13:06 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_TxQ Demo' is clicked on
+
+2018-09-17 14:13:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_File' is clicked on
+
+2018-09-17 14:13:06 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_File' is clicked on
+
+2018-09-17 14:13:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_Generate batch headers' is clicked on
+
+2018-09-17 14:13:07 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_Generate batch headers' is clicked on
+
+2018-09-17 14:13:07 - [TEST_STEP][PASSED] - comment: Select a category
+
+2018-09-17 14:13:07 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'Business Account ' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine'  using regular expression
+
+2018-09-17 14:13:07 - [MESSAGE][PASSED] - All options with label 'Business Account ' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine'  using regular expression
+
+2018-09-17 14:13:07 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:13:08 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:13:08 - [TEST_STEP][PASSED] - comment: Select a sub category
+
+2018-09-17 14:13:08 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'Business Plus Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine_1'  using regular expression
+
+2018-09-17 14:13:09 - [MESSAGE][PASSED] - All options with label 'Business Plus Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine_1'  using regular expression
+
+2018-09-17 14:13:09 - [TEST_STEP][PASSED] - sendKeys: Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_record'
+
+2018-09-17 14:13:09 - [MESSAGE][PASSED] - Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_record'
+
+2018-09-17 14:13:09 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:13:10 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:13:10 - [TEST_STEP][PASSED] - sendKeys: Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_rescan'
+
+2018-09-17 14:13:10 - [MESSAGE][PASSED] - Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_rescan'
+
+2018-09-17 14:13:10 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:13:11 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:13:11 - [TEST_STEP][PASSED] - sendKeys: Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_cheque'
+
+2018-09-17 14:13:11 - [MESSAGE][PASSED] - Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_cheque'
+
+2018-09-17 14:13:11 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:13:12 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:13:12 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-09-17 14:13:12 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189992404.png]]
+
+2018-09-17 14:13:12 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/button_Generate' is clicked on
+
+2018-09-17 14:13:12 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/button_Generate' is clicked on
+
+2018-09-17 14:13:12 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-09-17 14:13:13 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537189992838.png]]
+
+2018-09-17 14:13:13 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-09-17 14:13:16 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-17 14:13:16 - [TEST_STEP][NOT_RUN] - Statement - dd(): NOT_RUN: Statement - dd()
+
+2018-09-17 14:13:16 - [MESSAGE][NOT_RUN] - NOT_RUN: Statement - dd()]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)" classname="Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)" status="PASSED">
+         <system-out><![CDATA[2018-09-17 14:13:16 - [TEST_CASE][PASSED] - Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable): Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)
+
+2018-09-17 14:13:16 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://uat.txqweb.rrd.com/TxQucWeb_LeiSS_Test/'
+
+2018-09-17 14:13:16 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-09-17 14:13:20 - [MESSAGE][PASSED] - Browser is opened with url: 'https://uat.txqweb.rrd.com/TxQucWeb_LeiSS_Test/'
+
+2018-09-17 14:13:20 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-09-17 14:13:21 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-17 14:13:21 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_TxQ Demo' is clicked on
+
+2018-09-17 14:13:21 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_TxQ Demo' is clicked on
+
+2018-09-17 14:13:21 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_File' is clicked on
+
+2018-09-17 14:13:22 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_File' is clicked on
+
+2018-09-17 14:13:22 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_Generate batch headers' is clicked on
+
+2018-09-17 14:13:22 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_Generate batch headers' is clicked on
+
+2018-09-17 14:13:22 - [TEST_STEP][PASSED] - comment: Select a category
+
+2018-09-17 14:13:22 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'Business Account ' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine'  using regular expression
+
+2018-09-17 14:13:23 - [MESSAGE][PASSED] - All options with label 'Business Account ' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine'  using regular expression
+
+2018-09-17 14:13:23 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:13:24 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:13:24 - [TEST_STEP][PASSED] - comment: Select a sub category
+
+2018-09-17 14:13:24 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'Business Overdraft Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine_1'  using regular expression
+
+2018-09-17 14:13:24 - [MESSAGE][PASSED] - All options with label 'Business Overdraft Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine_1'  using regular expression
+
+2018-09-17 14:13:24 - [TEST_STEP][PASSED] - sendKeys: Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_record'
+
+2018-09-17 14:13:24 - [MESSAGE][PASSED] - Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_record'
+
+2018-09-17 14:13:24 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:13:25 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:13:25 - [TEST_STEP][PASSED] - sendKeys: Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_rescan'
+
+2018-09-17 14:13:25 - [MESSAGE][PASSED] - Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_rescan'
+
+2018-09-17 14:13:25 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:13:26 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:13:26 - [TEST_STEP][PASSED] - sendKeys: Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_cheque'
+
+2018-09-17 14:13:26 - [MESSAGE][PASSED] - Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_cheque'
+
+2018-09-17 14:13:26 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:13:27 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:13:27 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-09-17 14:13:27 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537190007545.png]]
+
+2018-09-17 14:13:27 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/button_Generate' is clicked on
+
+2018-09-17 14:13:27 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/button_Generate' is clicked on
+
+2018-09-17 14:13:27 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-09-17 14:13:28 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537190007948.png]]
+
+2018-09-17 14:13:28 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-09-17 14:13:31 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-17 14:13:31 - [TEST_STEP][NOT_RUN] - Statement - dd(): NOT_RUN: Statement - dd()
+
+2018-09-17 14:13:31 - [MESSAGE][NOT_RUN] - NOT_RUN: Statement - dd()]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)" classname="Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)" status="PASSED">
+         <system-out><![CDATA[2018-09-17 14:13:31 - [TEST_CASE][PASSED] - Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable): Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)
+
+2018-09-17 14:13:31 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://uat.txqweb.rrd.com/TxQucWeb_LeiSS_Test/'
+
+2018-09-17 14:13:31 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-09-17 14:13:35 - [MESSAGE][PASSED] - Browser is opened with url: 'https://uat.txqweb.rrd.com/TxQucWeb_LeiSS_Test/'
+
+2018-09-17 14:13:35 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-09-17 14:13:36 - [MESSAGE][PASSED] - Current window maximized
+
+2018-09-17 14:13:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_TxQ Demo' is clicked on
+
+2018-09-17 14:13:36 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_TxQ Demo' is clicked on
+
+2018-09-17 14:13:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_File' is clicked on
+
+2018-09-17 14:13:36 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_File' is clicked on
+
+2018-09-17 14:13:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/a_Generate batch headers' is clicked on
+
+2018-09-17 14:13:36 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/a_Generate batch headers' is clicked on
+
+2018-09-17 14:13:36 - [TEST_STEP][PASSED] - comment: Select a category
+
+2018-09-17 14:13:36 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'Business Account ' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine'  using regular expression
+
+2018-09-17 14:13:37 - [MESSAGE][PASSED] - All options with label 'Business Account ' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine'  using regular expression
+
+2018-09-17 14:13:37 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:13:38 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:13:38 - [TEST_STEP][PASSED] - comment: Select a sub category
+
+2018-09-17 14:13:38 - [TEST_STEP][PASSED] - selectOptionByLabel: All options with label 'Business Premier Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine_1'  using regular expression
+
+2018-09-17 14:13:38 - [MESSAGE][PASSED] - All options with label 'Business Premier Account' are selected in object 'Object Repository/TxQDemoTest/TxQDemo/select_--Please Select--Busine_1'  using regular expression
+
+2018-09-17 14:13:38 - [TEST_STEP][PASSED] - sendKeys: Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_record'
+
+2018-09-17 14:13:38 - [MESSAGE][PASSED] - Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_record'
+
+2018-09-17 14:13:38 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:13:39 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:13:39 - [TEST_STEP][PASSED] - sendKeys: Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_rescan'
+
+2018-09-17 14:13:40 - [MESSAGE][PASSED] - Keys '' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_rescan'
+
+2018-09-17 14:13:40 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:13:41 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:13:41 - [TEST_STEP][PASSED] - sendKeys: Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_cheque'
+
+2018-09-17 14:13:41 - [MESSAGE][PASSED] - Keys ' ' sent to object: 'Object Repository/TxQDemoTest/TxQDemo/input_ng-untouched ng-valid ng_cheque'
+
+2018-09-17 14:13:41 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-09-17 14:13:42 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-09-17 14:13:42 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-09-17 14:13:42 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537190022134.png]]
+
+2018-09-17 14:13:42 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/TxQDemoTest/TxQDemo/button_Generate' is clicked on
+
+2018-09-17 14:13:42 - [MESSAGE][PASSED] - Object: 'Object Repository/TxQDemoTest/TxQDemo/button_Generate' is clicked on
+
+2018-09-17 14:13:42 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-09-17 14:13:42 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\RR279339\\Desktop\\TxQ Demo Project\\Reports\\TC001_Suite_A)PrintBatchHeader(Variable)\\20180917_141143\\1537190022541.png]]
+
+2018-09-17 14:13:42 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-09-17 14:13:45 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-09-17 14:13:45 - [TEST_STEP][NOT_RUN] - Statement - dd(): NOT_RUN: Statement - dd()
+
+2018-09-17 14:13:45 - [MESSAGE][NOT_RUN] - NOT_RUN: Statement - dd()]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-09-17 14:11:45 - [TEST_SUITE][PASSED] - TC001_Suite_A)PrintBatchHeader(Variable): Test Cases/Project - TxQDemoTests/TC001_A)PrintBatchHeader(Variable)]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TC001_Suite_A)PrintBatchHeader(Variable)</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-09-17T14:11:43</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>3a4b62dd-23ca-4aae-88f5-0ec23b80dcd5</testSuiteGuid>
+   <testCaseLink>
+      <guid>b57f6ed7-e4a8-41e5-b6ce-d988fe8db41b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Project - TxQDemoTests/TC001_GenerateAndPrintBatchHeaders/TC001_A)PrintBatchHeader(Variable)</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>91b224f7-27aa-409d-b8c0-cb6c550e45f4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TC001_Data_PrintBatchHeaders(Variable)/Data_PrintBatchHeaders(Variable)</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>91b224f7-27aa-409d-b8c0-cb6c550e45f4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Categry</value>
+         <variableId>f19189ea-37b7-4eef-a853-37ee0275f026</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>91b224f7-27aa-409d-b8c0-cb6c550e45f4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SubCategory</value>
+         <variableId>1214ea7d-1d8c-4a34-9a60-b4d548cef668</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>91b224f7-27aa-409d-b8c0-cb6c550e45f4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Recorded</value>
+         <variableId>7ba113f3-173f-4750-9fd3-8d7d1744aeb4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>91b224f7-27aa-409d-b8c0-cb6c550e45f4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Rescan</value>
+         <variableId>5bd6c036-58b9-4b9c-9a8c-bc7012a258a9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>91b224f7-27aa-409d-b8c0-cb6c550e45f4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Cheque</value>
+         <variableId>6e007424-c2c0-4233-892b-e00658ec842e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

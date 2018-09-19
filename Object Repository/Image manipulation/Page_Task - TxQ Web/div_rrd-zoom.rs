@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_rrd-zoom</name>
+   <tag></tag>
+   <elementGuidId>b376a6e8-4795-4ab2-b445-40ffda558608</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rrd-zoom</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>zoom</name>
+      <type>Main</type>
+      <value>CurrentFile.$$Settings.Zoom</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>max-height</name>
+      <type>Main</type>
+      <value>FileMaxHeight</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[1]/div[@class=&quot;container-fluid body-content slide-container&quot;]/div[@class=&quot;slide-animation ng-scope&quot;]/div[@class=&quot;task-view ng-scope&quot;]/div[2]/div[2]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-9&quot;]/div[@class=&quot;files-container&quot;]/div[@class=&quot;file-preview&quot;]/div[@class=&quot;file-content ng-scope&quot;]/div[@class=&quot;tiff-viewer ng-scope&quot;]/div[@class=&quot;rrd-zoom&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
